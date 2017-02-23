@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="emma">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/emma/emma_ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/tools/emma/emma.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

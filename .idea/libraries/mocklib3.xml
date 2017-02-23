@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mocklib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/input/libexclude/mocklib3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

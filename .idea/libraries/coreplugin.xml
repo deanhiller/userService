@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="coreplugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tools/findbugs/plugin/coreplugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
