@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="change-name-in-ant.properties">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/output/jardist/change-name-in-ant.properties.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
