@@ -1,1 +1,0 @@
-This is where all the xsd's go if you are using schemas.
