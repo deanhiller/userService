@@ -1,7 +1,8 @@
 package biz.xsoftware.test.usersvc;
 
-import biz.xsoftware.api.usersvc.User;
 import org.junit.Assert;
+
+import biz.xsoftware.api.usersvc.User;
 
 
 public class TestCRemoveUser extends TestBUserService {

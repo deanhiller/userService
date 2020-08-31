@@ -1,4 +1,4 @@
-package xsoftware.test.usersvc.mock;
+package biz.xsoftware.test.usersvc.mock;
 
 import biz.xsoftware.api.usersvc.User;
 import biz.xsoftware.api.usersvc.UserListener;

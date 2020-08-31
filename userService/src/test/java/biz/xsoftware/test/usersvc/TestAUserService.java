@@ -3,8 +3,8 @@ package biz.xsoftware.test.usersvc;
 import biz.xsoftware.api.usersvc.User;
 import biz.xsoftware.api.usersvc.UserService;
 import biz.xsoftware.api.usersvc.UserServiceFactory;
+import biz.xsoftware.test.usersvc.mock.MockUserListener;
 import junit.framework.TestCase;
-import xsoftware.test.usersvc.mock.MockUserListener;
 
 public class TestAUserService extends TestCase {
 

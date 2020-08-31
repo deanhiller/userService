@@ -1,12 +1,13 @@
 package biz.xsoftware.test.usersvc;
 
+import org.junit.Assert;
+
 import biz.xsoftware.api.usersvc.User;
 import biz.xsoftware.api.usersvc.UserListener;
 import biz.xsoftware.api.usersvc.UserService;
 import biz.xsoftware.api.usersvc.UserServiceFactory;
+import biz.xsoftware.test.usersvc.mock.MockUserListener;
 import junit.framework.TestCase;
-import org.junit.Assert;
-import xsoftware.test.usersvc.mock.MockUserListener;
 
 public class TestBUserService extends TestCase {
 
