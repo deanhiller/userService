@@ -16,6 +16,9 @@ public class TestDReferences extends TestBUserService {
 		
 		employee.setId(5);
 		employee.setFirstName("xxx");
+
+		assertEquals(5, employee.getId());
+		assertEquals("xxx", employee.getFirstName());
 		
 		
 		User employee2 = userSvc.getUser(id1);
